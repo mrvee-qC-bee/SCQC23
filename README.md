@@ -19,3 +19,9 @@ To attend the workshop here are some recommended prerequisites to help you ge
     -  [Qiskit Machine Learning](https://qiskit.org/documentation/machine-learning/)
     -  [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/)
   - Link to join Qiskit slack: https://ibm.co/joinqiskitslack
+
+**Workshop Lecturers:**
+- Astri Cornish
+- Yuri Kobayashi
+- Atsushi Matsuo
+- Vishal Bajpe
