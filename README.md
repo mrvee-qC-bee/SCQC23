@@ -20,7 +20,7 @@ To attend the workshop here are some recommended prerequisites to help you ge
     -  [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/)
   - Link to join Qiskit slack: https://ibm.co/joinqiskitslack
 
-**Workshop Team:**
+**Qiskit Workshop Team:**
 - Astri Cornish
 - Yuri Kobayashi
 - Atsushi Matsuo
